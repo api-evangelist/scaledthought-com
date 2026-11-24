@@ -1,4 +1,4 @@
-# scaledthought-com
+# ScaledThought
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,148 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-scaledthought-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://scaledthought.com/
+The newest open-weight models on one OpenAI-compatible API, set up by your agent in one prompt. Calls are paid from prepaid credits your human approves. Hosted in the US, with Canada coming soon. Your agent handles signup, payment and account management.
+
+**Areas:** Inference API · Open Models · Token Pricing · Data Residency · Agent Tools · CLI
+
+## ScaledThought on APIs.io
+
+Everything profiled for ScaledThought is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/scaledthought-com/](https://apis.io/providers/scaledthought-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (18)
+
+- [ScaledThought Account API](https://apis.io/apis/scaledthought-com/scaledthought-com-account-api/) — The Account API from ScaledThought — 2 operation(s) for account.
+- [ScaledThought Accounts API](https://apis.io/apis/scaledthought-com/scaledthought-com-accounts-api/) — The Accounts API from ScaledThought — 1 operation(s) for accounts.
+- [ScaledThought Batches API](https://apis.io/apis/scaledthought-com/scaledthought-com-batches-api/) — The Batches API from ScaledThought — 3 operation(s) for batches.
+- [ScaledThought Billing API](https://apis.io/apis/scaledthought-com/scaledthought-com-billing-api/) — The Billing API from ScaledThought — 7 operation(s) for billing.
+- [ScaledThought Dashboard API](https://apis.io/apis/scaledthought-com/scaledthought-com-dashboard-api/) — The Dashboard API from ScaledThought — 1 operation(s) for dashboard.
+- [ScaledThought Device API](https://apis.io/apis/scaledthought-com/scaledthought-com-device-api/) — The Device API from ScaledThought — 2 operation(s) for device.
+- [ScaledThought Files API](https://apis.io/apis/scaledthought-com/scaledthought-com-files-api/) — The Files API from ScaledThought — 3 operation(s) for files.
+- [ScaledThought Fine Tuning API](https://apis.io/apis/scaledthought-com/scaledthought-com-fine-tuning-api/) — The Fine Tuning API from ScaledThought — 4 operation(s) for fine tuning.
+- [ScaledThought Keys API](https://apis.io/apis/scaledthought-com/scaledthought-com-keys-api/) — The Keys API from ScaledThought — 4 operation(s) for keys.
+- [ScaledThought MCP API](https://apis.io/apis/scaledthought-com/scaledthought-com-mcp-api/) — The Mcp API from ScaledThought — 1 operation(s) for mcp.
+- [ScaledThought Members API](https://apis.io/apis/scaledthought-com/scaledthought-com-members-api/) — The Members API from ScaledThought — 1 operation(s) for members.
+- [ScaledThought Messages API](https://apis.io/apis/scaledthought-com/scaledthought-com-messages-api/) — The Messages API from ScaledThought — 2 operation(s) for messages.
+- [ScaledThought Models API](https://apis.io/apis/scaledthought-com/scaledthought-com-models-api/) — The Models API from ScaledThought — 3 operation(s) for models.
+- [ScaledThought Status API](https://apis.io/apis/scaledthought-com/scaledthought-com-status-api/) — The Status API from ScaledThought — 1 operation(s) for status.
+- [ScaledThought Trial API](https://apis.io/apis/scaledthought-com/scaledthought-com-trial-api/) — The Trial API from ScaledThought — 1 operation(s) for trial.
+- [ScaledThought Usage API](https://apis.io/apis/scaledthought-com/scaledthought-com-usage-api/) — The Usage API from ScaledThought — 1 operation(s) for usage.
+- [ScaledThought Videos API](https://apis.io/apis/scaledthought-com/scaledthought-com-videos-api/) — The Videos API from ScaledThought — 3 operation(s) for videos.
+- [ScaledThought Webhooks API](https://apis.io/apis/scaledthought-com/scaledthought-com-webhooks-api/) — The Webhooks API from ScaledThought — 2 operation(s) for webhooks.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [ScaledThought Agentic Access](https://apis.io/agentic-access/scaledthought-com/scaledthought-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [BillingStatus](https://apis.io/schemas/scaledthought-com/scaledthought-com-billing-status/)
+- [CreateAccountInput](https://apis.io/schemas/scaledthought-com/scaledthought-com-create-account-input/)
+- [CreateKeyInput](https://apis.io/schemas/scaledthought-com/scaledthought-com-create-key-input/)
+- [Topup](https://apis.io/schemas/scaledthought-com/scaledthought-com-topup/)
+- [TopupInput](https://apis.io/schemas/scaledthought-com/scaledthought-com-topup-input/)
+- [TransactionsPage](https://apis.io/schemas/scaledthought-com/scaledthought-com-transactions-page/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Scaledthought Com Context](https://apis.io/jsonld/scaledthought-com/scaledthought-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [ScaledThought API Rules](https://apis.io/rules/scaledthought-com/scaledthought-com-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [ScaledThought Authentication](https://apis.io/security/scaledthought-com/scaledthought-com-authentication/)
+- [ScaledThought Domain Security](https://apis.io/security/scaledthought-com/scaledthought-com-domain-security/)
+- [ScaledThought Vulnerability Disclosure](https://apis.io/security/scaledthought-com/scaledthought-com-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [ScaledThought Plans Pricing](https://apis.io/plans/scaledthought-com/scaledthought-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://scaledthought.com/)
+- [Documentation](https://scaledthought.com/guides)
+- [Pricing](https://scaledthought.com/pricing)
+- [Changelog](https://scaledthought.com/changelog)
+- [Blog](https://scaledthought.com/blog)
+- [Security](https://scaledthought.com/security)
+- [Terms of service](https://scaledthought.com/legal/terms)
+- [Privacy policy](https://scaledthought.com/legal/privacy)
+- [Status](https://scaledthought.com/status)
+
+## API Evangelist rating
+
+**Kin Score 55.3** — strong · rubric 0.28.0 · scored 2026-11-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 83.9 |
+| Contract quality | 55.3 |
+| Contract governance | 79.1 |
+| Operational transparency | 38.1 |
+| Developer ergonomics | 30.2 |
+| Access clarity | 51.5 |
+
+**Agent readiness 37.6** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | paginated |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 30.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/scaledthought-com/](https://apis.io/providers/scaledthought-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for ScaledThought: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/scaledthought-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
